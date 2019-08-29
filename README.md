@@ -1,5 +1,5 @@
 # bayes_fun_py
-Python Supplement to Learn Bayesian Statistics the Fun Way by Will Kurt
+Python Supplement to *Learn Bayesian Statistics the Fun Way* by Will Kurt
 
 The goal of this exercise is twofold:
 1. Create some simple functions to use along with the *LBSTFW* text.
