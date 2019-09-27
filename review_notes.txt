@@ -1,0 +1,11 @@
+Review: Why You Need to Read This Book
+
+I wish this is the first book on probability I'd ever read. Or if not the first, the second.
+
+This is far and away the most practical book on the subject.
+
+If you're only explanation is with coins and dice, you are stuck in the ivory tower.
+
+Why not R? Because I already felt competent enough in Python. No doubt that learning R would be a useful and enriching experience, but there are only so many hours in the day. Plus, forcing myself to translate this into Python would help me truly understand the material.
+
+What practical examples are best?
